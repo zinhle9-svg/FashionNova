@@ -523,12 +523,14 @@ strong {
 }
 
 .slick-custom {
-  position: relative;
+  position:relative;
+  justify-content: center;
 }
 
 .slick-custom img {
-  width: 100%;
-  object-fit: cover;
+  width: 1500px;
+  object-fit:cover;
+  height: 700px;
 }
 
 .slick-bottom {
